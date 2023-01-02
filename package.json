@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://44.211.29.230:8081/repository/nissan-npm-app/"
+    "registry": "http://172.31.67.207:8081/repository/nissan-npm-app/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
